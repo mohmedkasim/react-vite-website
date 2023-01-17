@@ -8,7 +8,7 @@
 
 ## npm version
 
-> **warning**
+> **Warning**
 > version 8.11.0
 
 ## Setup project steps
