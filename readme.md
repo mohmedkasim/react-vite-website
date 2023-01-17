@@ -1,6 +1,6 @@
 # Reactjs + Vitejs + tailwindcss website
 
-<div style="display:flex;justify-content:center;padding-top:20px">
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,js)](https://skillicons.dev)
 
