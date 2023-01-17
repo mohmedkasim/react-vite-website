@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,js)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js" style="width: 300px">
 
 </div>
 
