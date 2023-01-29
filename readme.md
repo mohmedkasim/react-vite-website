@@ -53,3 +53,11 @@ content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
 ```
 npm run dev
 ```
+
+## Run Deploy
+```
+npm run build
+```
+
+->**Note**
+->deploy project in /dist directory
