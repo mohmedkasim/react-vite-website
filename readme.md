@@ -59,5 +59,5 @@ npm run dev
 npm run build
 ```
 
-->**Note**
-->deploy project in /dist directory
+> **Note**
+> deploy project in /dist directory
